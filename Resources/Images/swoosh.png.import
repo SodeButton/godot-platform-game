@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tileset-sliced.png-300ee03c2aee55b4012be5a90a71bbc3.stex"
+path="res://.import/swoosh.png-a38be7d880c0a719d4a07ecec342f202.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Resources/Images/tileset-sliced.png"
-dest_files=[ "res://.import/tileset-sliced.png-300ee03c2aee55b4012be5a90a71bbc3.stex" ]
+source_file="res://Resources/Images/swoosh.png"
+dest_files=[ "res://.import/swoosh.png-a38be7d880c0a719d4a07ecec342f202.stex" ]
 
 [params]
 

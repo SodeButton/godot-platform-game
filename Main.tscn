@@ -6,6 +6,6 @@
 [node name="Main" type="Node"]
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-position = Vector2( 285.318, 224.244 )
+position = Vector2( 315.951, 223.003 )
 
 [node name="TileMap" parent="." instance=ExtResource( 2 )]
